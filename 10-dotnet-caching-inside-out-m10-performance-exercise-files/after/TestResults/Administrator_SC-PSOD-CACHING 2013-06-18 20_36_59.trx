@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="8668a4b0-7e82-40d1-9e03-7fd2d1bfdc3b" name="Administrator@SC-PSOD-CACHING 2013-06-18 20:36:59" runUser="SC-PSOD-CACHING\Administrator" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="067dffbd-3dc9-4340-9ed5-4064ffb922bb">
+    <Description>These are default test settings for a local test run.</Description>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="Administrator_SC-PSOD-CACHING 2013-06-18 20_36_59" />
+  </TestSettings>
+  <Times creation="2013-06-18T20:36:59.0639400+01:00" queuing="2013-06-18T20:36:59.3919016+01:00" start="2013-06-18T20:36:59.5408852+01:00" finish="2013-06-18T20:37:14.5234614+01:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <WebTest name="GetQuotePrices" storage="c:\tfs\pluralsight\caching\source\sixeyed.carvalet\sixeyed.carvalet.web.perftest\getquoteprices.webtest" id="686ea170-c073-4dc6-ae79-296fffcece1f" persistedWebTest="77u/PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/Pg0KPFdlYlRlc3QgTmFtZT0iR2V0UXVvdGVQcmljZXMiIElkPSI2ODZlYTE3MC1jMDczLTRkYzYtYWU3OS0yOTZmZmZjZWNlMWYiIE93bmVyPSIiIFByaW9yaXR5PSIyMTQ3NDgzNjQ3IiBFbmFibGVkPSJUcnVlIiBDc3NQcm9qZWN0U3RydWN0dXJlPSIiIENzc0l0ZXJhdGlvbj0iIiBUaW1lb3V0PSIwIiBXb3JrSXRlbUlkcz0iIiB4bWxucz0iaHR0cDovL21pY3Jvc29mdC5jb20vc2NoZW1hcy9WaXN1YWxTdHVkaW8vVGVhbVRlc3QvMjAxMCIgRGVzY3JpcHRpb249IiIgQ3JlZGVudGlhbFVzZXJOYW1lPSIiIENyZWRlbnRpYWxQYXNzd29yZD0iIiBQcmVBdXRoZW50aWNhdGU9IlRydWUiIFByb3h5PSIiIFN0b3BPbkVycm9yPSJGYWxzZSIgUmVjb3JkZWRSZXN1bHRGaWxlPSIiIFJlc3VsdHNMb2NhbGU9IiI+DQogIDxJdGVtcz4NCiAgICA8UmVxdWVzdCBNZXRob2Q9IlBPU1QiIEd1aWQ9IjVkZDY5OWQ5LTZlNjEtNGU2MC1iM2ExLWIyNTFlNjM0ZmFjYyIgVmVyc2lvbj0iMS4xIiBVcmw9Imh0dHA6Ly9sb2NhbGhvc3QvU2l4ZXllZC5DYXJWYWxldC5XZWIvUXVvdGVzL0dldFF1b3RlUHJpY2VzIiBUaGlua1RpbWU9IjAiIFRpbWVvdXQ9IjEwIiBQYXJzZURlcGVuZGVudFJlcXVlc3RzPSJUcnVlIiBGb2xsb3dSZWRpcmVjdHM9IlRydWUiIFJlY29yZFJlc3VsdD0iVHJ1ZSIgQ2FjaGU9IkZhbHNlIiBSZXNwb25zZVRpbWVHb2FsPSIxIiBFbmNvZGluZz0idXRmLTgiIEV4cGVjdGVkSHR0cFN0YXR1c0NvZGU9IjIwMCIgRXhwZWN0ZWRSZXNwb25zZVVybD0iIiBSZXBvcnRpbmdOYW1lPSJHZXRRdW90ZVByaWNlcy13ZWIiIElnbm9yZUh0dHBTdGF0dXNDb2RlPSJGYWxzZSI+DQogICAgICA8RGVwZW5kZW50UmVxdWVzdHM+DQogICAgICAgIDxSZXF1ZXN0IE1ldGhvZD0iR0VUIiBHdWlkPSJhMjk0MGE4Ni1hZjc5LTQ3NWUtYjBkZC02YmI4ZDhlYTk0YmMiIFZlcnNpb249IjEuMSIgVXJsPSJodHRwOi8vbG9jYWxob3N0L1NpeGV5ZWQuQ2FyVmFsZXQuQXBpL2FwaS92ZWhpY2xlLzEiIFRoaW5rVGltZT0iMCIgVGltZW91dD0iMzAwIiBQYXJzZURlcGVuZGVudFJlcXVlc3RzPSJUcnVlIiBGb2xsb3dSZWRpcmVjdHM9IlRydWUiIFJlY29yZFJlc3VsdD0iVHJ1ZSIgQ2FjaGU9IkZhbHNlIiBSZXNwb25zZVRpbWVHb2FsPSIxIiBFbmNvZGluZz0idXRmLTgiIEV4cGVjdGVkSHR0cFN0YXR1c0NvZGU9IjAiIEV4cGVjdGVkUmVzcG9uc2VVcmw9IiIgUmVwb3J0aW5nTmFtZT0iIiBJZ25vcmVIdHRwU3RhdHVzQ29kZT0iRmFsc2UiPg0KICAgICAgICAgIDxIZWFkZXJzPg0KICAgICAgICAgICAgPEhlYWRlciBOYW1lPSJBY2NlcHQiIFZhbHVlPSJhcHBsaWNhdGlvbi9qc29uLCB0ZXh0L2phdmFzY3JpcHQsICovKjsgcT0wLjAxIiAvPg0KICAgICAgICAgICAgPEhlYWRlciBOYW1lPSJYLVJlcXVlc3RlZC1XaXRoIiBWYWx1ZT0iWE1MSHR0cFJlcXVlc3QiIC8+DQogICAgICAgICAgICA8SGVhZGVyIE5hbWU9IlJlZmVyZXIiIFZhbHVlPSJodHRwOi8vbG9jYWxob3N0L1NpeGV5ZWQuQ2FyVmFsZXQuV2ViL1F1b3Rlcy9HZXRRdW90ZVByaWNlcyIgLz4NCiAgICAgICAgICA8L0hlYWRlcnM+DQogICAgICAgIDwvUmVxdWVzdD4NCiAgICAgIDwvRGVwZW5kZW50UmVxdWVzdHM+DQogICAgICA8SGVhZGVycz4NCiAgICAgICAgPEhlYWRlciBOYW1lPSJSZWZlcmVyIiBWYWx1ZT0iaHR0cDovL2xvY2FsaG9zdC9TaXhleWVkLkNhclZhbGV0LndlYi9RdW90ZXMvTXlRdW90ZXM/dmVoaWNsZUlkPTEiIC8+DQogICAgICA8L0hlYWRlcnM+DQogICAgICA8VmFsaWRhdGlvblJ1bGVzPg0KICAgICAgICA8VmFsaWRhdGlvblJ1bGUgQ2xhc3NuYW1lPSJNaWNyb3NvZnQuVmlzdWFsU3R1ZGlvLlRlc3RUb29scy5XZWJUZXN0aW5nLlJ1bGVzLlZhbGlkYXRpb25SdWxlUmVzcG9uc2VUaW1lR29hbCwgTWljcm9zb2Z0LlZpc3VhbFN0dWRpby5RdWFsaXR5VG9vbHMuV2ViVGVzdEZyYW1ld29yaywgVmVyc2lvbj0xMC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iMDNmNWY3ZjExZDUwYTNhIiBEaXNwbGF5TmFtZT0iUmVzcG9uc2UgVGltZSBHb2FsIiBEZXNjcmlwdGlvbj0iVmFsaWRhdGVzIHRoYXQgdGhlIHJlc3BvbnNlIHRpbWUgZm9yIHRoZSByZXF1ZXN0IGlzIGxlc3MgdGhhbiBvciBlcXVhbCB0byB0aGUgcmVzcG9uc2UgdGltZSBnb2FsIGFzIHNwZWNpZmllZCBvbiB0aGUgcmVxdWVzdC4gIFJlc3BvbnNlIHRpbWUgZ29hbHMgb2YgemVybyB3aWxsIGJlIGlnbm9yZWQuIiBMZXZlbD0iSGlnaCIgRXhlY3R1aW9uT3JkZXI9IkFmdGVyRGVwZW5kZW50cyI+DQogICAgICAgICAgPFJ1bGVQYXJhbWV0ZXJzPg0KICAgICAgICAgICAgPFJ1bGVQYXJhbWV0ZXIgTmFtZT0iVG9sZXJhbmNlIiBWYWx1ZT0iMCIgLz4NCiAgICAgICAgICA8L1J1bGVQYXJhbWV0ZXJzPg0KICAgICAgICA8L1ZhbGlkYXRpb25SdWxlPg0KICAgICAgPC9WYWxpZGF0aW9uUnVsZXM+DQogICAgICA8Rm9ybVBvc3RIdHRwQm9keT4NCiAgICAgICAgPEZvcm1Qb3N0UGFyYW1ldGVyIE5hbWU9InZlaGljbGVJZCIgVmFsdWU9IjEiIFJlY29yZGVkVmFsdWU9IjEiIENvcnJlbGF0aW9uQmluZGluZz0iIiBVcmxFbmNvZGU9IlRydWUiIC8+DQogICAgICAgIDxGb3JtUG9zdFBhcmFtZXRlciBOYW1lPSJwb3N0YWxDb2RlIiBWYWx1ZT0idHcxMWFiIiBSZWNvcmRlZFZhbHVlPSJ0dzExYWIiIENvcnJlbGF0aW9uQmluZGluZz0iIiBVcmxFbmNvZGU9IlRydWUiIC8+DQogICAgICA8L0Zvcm1Qb3N0SHR0cEJvZHk+DQogICAgPC9SZXF1ZXN0Pg0KICA8L0l0ZW1zPg0KPC9XZWJUZXN0Pg==">
+      <Execution id="f8cbe689-64b6-49a2-b1f1-9b013804799b" />
+    </WebTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry isTransparent="false" testId="686ea170-c073-4dc6-ae79-296fffcece1f" executionId="f8cbe689-64b6-49a2-b1f1-9b013804799b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <WebTestResult executionId="f8cbe689-64b6-49a2-b1f1-9b013804799b" testId="686ea170-c073-4dc6-ae79-296fffcece1f" testName="GetQuotePrices" computerName="SC-PSOD-CACHING" duration="00:00:04.1956631" startTime="2013-06-18T20:36:59.6238741+01:00" endTime="2013-06-18T20:37:14.4674205+01:00" testType="4e7599fa-5ecb-43e9-a887-cd63cf72d207" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f8cbe689-64b6-49a2-b1f1-9b013804799b">
+      <Output>
+        <ErrorInfo>
+          <Message>1 primary requests, 0 dependant requests and 0 conditional rules failed</Message>
+        </ErrorInfo>
+      </Output>
+      <ResultFiles>
+        <ResultFile path="GetQuotePrices.webtestResult" />
+      </ResultFiles>
+      <TestSettings name="Local" id="067dffbd-3dc9-4340-9ed5-4064ffb922bb">
+        <Description>These are default test settings for a local test run.</Description>
+        <Execution>
+          <TestTypeSpecific>
+            <WebTestRunConfiguration testTypeId="4e7599fa-5ecb-43e9-a887-cd63cf72d207">
+              <Browser name="Internet Explorer 9.0" MaxConnections="6">
+                <Headers>
+                  <Header name="User-Agent" value="Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)" />
+                  <Header name="Accept" value="*/*" />
+                  <Header name="Accept-Language" value="{{$IEAcceptLanguage}}" />
+                  <Header name="Accept-Encoding" value="GZIP" />
+                </Headers>
+              </Browser>
+            </WebTestRunConfiguration>
+          </TestTypeSpecific>
+          <AgentRule name="Execution Agents">
+          </AgentRule>
+        </Execution>
+        <Deployment runDeploymentRoot="Administrator_SC-PSOD-CACHING 2013-06-18 20_36_59" />
+      </TestSettings>
+      <WebTestResultFilePath>Administrator_SC-PSOD-CACHING 2013-06-18 20_36_59\In\f8cbe689-64b6-49a2-b1f1-9b013804799b\GetQuotePrices.webtestResult</WebTestResultFilePath>
+    </WebTestResult>
+  </Results>
+</TestRun>

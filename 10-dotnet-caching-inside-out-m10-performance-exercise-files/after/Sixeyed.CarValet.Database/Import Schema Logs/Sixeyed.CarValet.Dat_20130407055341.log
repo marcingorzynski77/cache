@@ -1,0 +1,75 @@
+07/04/2013 18:53:41	This log contains information about the import schema operation into project 'Sixeyed.CarValet.Database' on computer 'SC-CSUG-APR13' by user 'Administrator'.
+07/04/2013 18:53:41	Import of database schema has started.
+07/04/2013 18:53:47	Gathering database options
+07/04/2013 18:53:47	Gathering users
+07/04/2013 18:53:47	Gathering roles
+07/04/2013 18:53:47	Gathering application roles
+07/04/2013 18:53:47	Gathering role memberships
+07/04/2013 18:53:47	Gathering filegroups
+07/04/2013 18:53:47	Gathering full-text catalogs
+07/04/2013 18:53:47	Gathering assemblies
+07/04/2013 18:53:47	Gathering certificates
+07/04/2013 18:53:47	Gathering asymmetric keys
+07/04/2013 18:53:47	Gathering symmetric keys
+07/04/2013 18:53:47	Gathering encrypted symmetric keys
+07/04/2013 18:53:47	Gathering schemas
+07/04/2013 18:53:47	Gathering XML schema collections
+07/04/2013 18:53:47	Gathering user-defined data types
+07/04/2013 18:53:47	Gathering user-defined types
+07/04/2013 18:53:47	Gathering table types
+07/04/2013 18:53:47	Gathering unique keys for table types
+07/04/2013 18:53:47	Gathering primary keys for table types
+07/04/2013 18:53:47	Gathering check constraints for table types
+07/04/2013 18:53:47	Gathering default constraints for table types
+07/04/2013 18:53:47	Gathering partition functions
+07/04/2013 18:53:47	Gathering partition schemes
+07/04/2013 18:53:47	Gathering functions
+07/04/2013 18:53:47	Gathering encrypted functions
+07/04/2013 18:53:47	Gathering aggregates
+07/04/2013 18:53:47	Gathering procedures
+07/04/2013 18:53:47	Gathering encrypted procedures
+07/04/2013 18:53:47	Gathering tables
+07/04/2013 18:53:47	Gathering primary keys
+07/04/2013 18:53:47	Gathering unique constraints
+07/04/2013 18:53:47	Gathering foreign keys
+07/04/2013 18:53:47	Gathering default constraints
+07/04/2013 18:53:47	Gathering check constraints
+07/04/2013 18:53:47	Gathering views
+07/04/2013 18:53:47	Gathering encrypted views
+07/04/2013 18:53:47	Gathering indexes
+07/04/2013 18:53:47	Gathering statistics
+07/04/2013 18:53:47	Gathering full-text index stoplists
+07/04/2013 18:53:47	Gathering search property lists
+07/04/2013 18:53:47	Gathering search properties
+07/04/2013 18:53:47	Gathering full-text indexes
+07/04/2013 18:53:47	Gathering column store indexes
+07/04/2013 18:53:47	Gathering spatial indexes
+07/04/2013 18:53:47	Gathering XML indexes
+07/04/2013 18:53:47	Gathering encrypted triggers
+07/04/2013 18:53:47	Gathering triggers
+07/04/2013 18:53:47	Gathering encrypted and clr ddl triggers
+07/04/2013 18:53:47	Gathering ddl triggers
+07/04/2013 18:53:47	Gathering synonyms
+07/04/2013 18:53:47	Gathering defaults
+07/04/2013 18:53:47	Gathering data constraint uddt bindings
+07/04/2013 18:53:47	Gathering rules
+07/04/2013 18:53:47	Gathering data constraint uddt bindings
+07/04/2013 18:53:47	Gathering message types
+07/04/2013 18:53:47	Gathering queues
+07/04/2013 18:53:47	Gathering contracts
+07/04/2013 18:53:47	Gathering services
+07/04/2013 18:53:47	Gathering event notifications
+07/04/2013 18:53:47	Gathering remote service bindings
+07/04/2013 18:53:47	Gathering broker priorities
+07/04/2013 18:53:47	Gathering signatures
+07/04/2013 18:53:47	Gathering data compression options
+07/04/2013 18:53:47	Gathering sequence types
+07/04/2013 18:53:47	Gathering extended properties
+07/04/2013 18:53:48	Gathering credentials
+07/04/2013 18:53:48	Gathering logins
+07/04/2013 18:53:48	Gathering server audits
+07/04/2013 18:53:48	Scanning project for duplicate elements
+07/04/2013 18:53:48	Finished duplicate element processing
+07/04/2013 18:53:49	Finished importing database.
+07/04/2013 18:53:49	A summary of the import was saved to the following location: C:\TFS\Incubation\CsugApril13\Source\CarValet\Sixeyed.CarValet\Sixeyed.CarValet.Database\Import Schema Logs\Sixeyed.CarValet.Dat_20130407055341.log
+07/04/2013 18:53:49	Click Finish to continue...
